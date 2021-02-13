@@ -9,7 +9,7 @@ A [fish shell](https://fishshell.com/) plugin enabling you to use the VS Code CL
 ## Installation
 With the [fisher plugin manager](https://github.com/jorgebucaran/fisher)
 ```fish
-fisher install chvolkmann/code-connect-fisher-plugin
+fisher install chvolkmann/code-connect-fish-plugin
 ```
 
 ## Usage
