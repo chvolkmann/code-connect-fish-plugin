@@ -1,6 +1,8 @@
 # code-connect fish plugin
 
-A [fish shell](https://fishshell.com/) plugin enabling you to use the VS Code CLI `code` on a remote terminal to view files and directories in your local VS Code window. For why this is useful, refer to the readme of the source project [code-connect](https://github.com/chvolkmann/code-connect). This plugin installs the commands `code-connect` and `code-disconnect` automatically.
+A [fish shell](https://fishshell.com/) plugin enabling you to use the VS Code `code` command on a remote terminal. Say you're connected to a server through SSH and want to view a file VS Code. You can simply run `code myfile` on your remote machine to open a file in your locally running VS Code window, just as you would in WSL and the integrated terminal.
+
+For further information, refer to the README of the source project [code-connect](https://github.com/chvolkmann/code-connect). This plugin installs the commands `code-connect` and `code-disconnect` automatically.
 
 ## Requirements
 - refer to the [code-connect#Requirements](https://github.com/chvolkmann/code-connect#requirements)
