@@ -13,5 +13,15 @@ fisher install chvolkmann/code-connect-fisher-plugin
 ```
 
 ## Usage
+To make the `code` command available, use
+```fish
+code-connect
+```
+
+To remove it from your current shell session, use
+```fish
+code-disconnect
+```
+
 Refer to [code-connect#Usage](https://github.com/chvolkmann/code-connect#usage).  
 The `deactivate` command is not needed here and thus not included.
